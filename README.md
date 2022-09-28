@@ -23,3 +23,4 @@ Brush shape changes:
 
 Painting example:
  
+![Homework 1 Screenshot](https://user-images.githubusercontent.com/114141718/192700435-0ebf75f8-8d55-4736-9daf-568da426eda1.png)
