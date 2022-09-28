@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\GAME230-Assignment1-Liu\Source.cpp(98,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\GAME230-Assignment1-Liu\Source.cpp(98,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\GAME230-Assignment1-Liu\Source.cpp(142,16): warning C4305: '+=': truncation from 'double' to 'float'
+D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\GAME230-Assignment1-Liu\Source.cpp(147,17): warning C4305: '-=': truncation from 'double' to 'float'
+  Assignment 1.vcxproj -> D:\UCSC Courses\GAME 230 Fundamentals of Game Engineering\Repository\GAME230-Assignment1-Liu\x64\Debug\Assignment 1.exe
